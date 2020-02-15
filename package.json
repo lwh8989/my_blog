@@ -2,8 +2,6 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "sh deploy.sh",
-    "doc": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "deploy": "sh deploy.sh"
   }
 }
