@@ -1,0 +1,2 @@
+[submodule "docs/.vuepress/dist"]
+	url = https://github.com/lwh8989/my_blog.git
